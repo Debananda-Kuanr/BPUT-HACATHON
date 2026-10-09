@@ -1,0 +1,7 @@
+========================================================
+PULMONARY FUNCTION TEST & SPIROMETRY
+Patient: Aarav Sharma (12M) | Ref: Pediatrics OPD
+FEV1: 64 % predicted [LOW] (Normal > 80%)
+FEV1/FVC Ratio: 68 % [REDUCED]
+Post-Bronchodilator Reversibility: +16% improvement in FEV1 [POSITIVE FOR ASTHMA]
+========================================================

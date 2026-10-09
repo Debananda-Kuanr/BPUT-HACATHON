@@ -1,0 +1,8 @@
+========================================================
+METROPOLIS CLINICAL LABORATORY
+Patient: Soubhagya Rout (52F) | Ref: Dr. Rajesh Kumar
+Fasting Blood Glucose: 242.0 mg/dL [HIGH] (70-100)
+HbA1c: 9.2 % [HIGH] (4.0-5.6)
+Serum Creatinine: 1.08 mg/dL (0.5-1.1)
+Total Cholesterol: 228.0 mg/dL [HIGH] (125-200)
+========================================================

@@ -1,0 +1,8 @@
+========================================================
+EASTERN PATHOLOGY LABORATORY
+Patient: Rohan Mohanty (28M) | Test: CBC
+Hemoglobin: 15.2 g/dL (13.5-17.5)
+Total Leukocytes (WBC): 3,400 /mcL [LOW] (4,000-11,000)
+Platelet Count: 92,000 /mcL [LOW] (150,000-450,000)
+Hematocrit (PCV): 44.5 %
+========================================================
