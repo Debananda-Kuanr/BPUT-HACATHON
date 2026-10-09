@@ -10,8 +10,8 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![MEDGem Hero Image](path/to/your/hero-image.png)
-> *Placeholder: Add a high-resolution banner image of the MEDGem dashboard or landing page here.*
+<img width="1520" height="728" alt="image" src="https://github.com/user-attachments/assets/5e873cbc-bce3-4c1a-af04-ab5fb0685188" />
+
 
 **MEDGem** is a state-of-the-art, production-ready intelligent triage platform engineered to streamline emergency room and outpatient clinic workflows. By bridging the gap between advanced Large Language Models (LLMs) and frontline healthcare workers, MEDGem automates patient intake, intelligently analyzes symptoms, and categorizes cases by medical urgency.
 
@@ -56,11 +56,9 @@ Hospital emergency rooms are often overwhelmed, leading to delayed triage and pa
 
 <div align="center">
 
-| Patient Voice Interface | Nurse Triage Dashboard | Doctor Review Panel |
+| Patient Chat Interface | Nurse Triage Dashboard | Doctor Review Panel |
 | :---: | :---: | :---: |
-| ![Voice UI](path/to/voice-ui-screenshot.png) | ![Nurse Dashboard](path/to/nurse-dashboard-screenshot.png) | ![Doctor Panel](path/to/doctor-panel-screenshot.png) |
-
-> *Placeholder: Add screenshots of your various interfaces above.*
+| <img width="358" height="634" alt="image" src="https://github.com/user-attachments/assets/c1630520-f559-4192-b986-6565dc5673b0" />| <img width="357" height="634" alt="image" src="https://github.com/user-attachments/assets/a2f89806-a598-4cf0-ad8e-5a9358d2c537" /> | <img width="358" height="636" alt="image" src="https://github.com/user-attachments/assets/54af05c5-197f-434d-9abe-75d5b79a736b" />|
 
 </div>
 
@@ -70,8 +68,8 @@ Hospital emergency rooms are often overwhelmed, leading to delayed triage and pa
 
 <div align="center">
 
-![MEDGem Architecture Flow](path/to/architecture-flow-diagram.png)
-> *Placeholder: Add your system architecture or user flow diagram here.*
+<img width="1024" height="768" alt="MEDGem healthcare triage flowchart" src="https://github.com/user-attachments/assets/15f8db5d-5303-4746-99b4-8d070a002426" />
+
 
 </div>
 
@@ -151,6 +149,15 @@ Use these Track IDs in the search bar or track page to view specific case flows:
 - 🟡 `SYN-3190` - **Referred** (Lumbar Radiculopathy)
 - 🟢 `SYN-4012` - **In Nurse Review** (Asthma Exacerbation)
 - 🟢 `SYN-5501` - **Completed** (Gastroenteritis)
+
+---
+
+## MORE PICTURE OF PROJECT
+
+| <img width="358" height="634" alt="image" src="https://github.com/user-attachments/assets/eb36e137-3398-4b4a-b9a2-89df9923849e" />| <img width="356" height="634" alt="image" src="https://github.com/user-attachments/assets/ee05fbe3-537e-45ad-9307-d7bfd5c1bc36" />| <img width="357" height="632" alt="image" src="https://github.com/user-attachments/assets/3c4425dd-ff15-4733-b86f-f5b99769442f" />|
+| :---: | :---: | :---: |
+| <img width="359" height="638" alt="image" src="https://github.com/user-attachments/assets/33b0e40c-bc66-45f7-8660-f399075dc21e" />| <img width="357" height="634" alt="image" src="https://github.com/user-attachments/assets/d4e437f3-c7b0-4dc6-a9a1-5cdaea7d5cf9" />|<img width="358" height="637" alt="image" src="https://github.com/user-attachments/assets/346cb0f4-d10e-47f4-9a2d-8aa3d7f1fff0" />|
+|<img width="357" height="635" alt="image" src="https://github.com/user-attachments/assets/f20cc5ee-e635-4ff5-8997-3d50c0216308" />|<img width="358" height="636" alt="image" src="https://github.com/user-attachments/assets/6889c712-ff98-4421-8351-0fdeaa2e6463" />|<img width="355" height="637" alt="image" src="https://github.com/user-attachments/assets/42648a2e-ca5f-4d22-ba8b-3ac06c1264cd" />|
 
 ---
 
