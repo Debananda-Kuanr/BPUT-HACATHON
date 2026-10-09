@@ -22,6 +22,11 @@
 <img width="1520" height="728" alt="image" src="https://github.com/user-attachments/assets/5e873cbc-bce3-4c1a-af04-ab5fb0685188" />
 
 
+### FULL VIDEO ☕
+👇👇👇👇👇👇👇👇👇👇</br>
+https://drive.google.com/drive/folders/11K_eTbjavcUhbAdrLOFbt7ihvZbKwD6T?usp=sharing
+
+
 **MEDGem** is a state-of-the-art, production-ready intelligent triage platform engineered to streamline emergency room and outpatient clinic workflows. By bridging the gap between advanced Large Language Models (LLMs) and frontline healthcare workers, MEDGem automates patient intake, intelligently analyzes symptoms, and categorizes cases by medical urgency.
 
 [Explore the Features](#-key-features) • [View Architecture](#-system-architecture) • [Installation Guide](#-installation--setup)
