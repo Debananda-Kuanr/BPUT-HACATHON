@@ -3,6 +3,8 @@
 # 🏥 MEDGem
 ### AI-Driven Clinical Triage & Multimodal Patient Intake System
 
+<img width="1670" height="892" alt="IMG_20261011_133052" src="https://github.com/user-attachments/assets/d7334179-6fed-4be0-8823-4581c9b94fb2" />
+
 ## MEDGem — Tech Stack Badges
 
 [![PHP 8.x](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
